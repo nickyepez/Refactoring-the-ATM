@@ -1,11 +1,18 @@
-button {
-  background-color: #0c80f3;
-  border: 6px solid #0ff166;
-  border-radius: 10px;
-  width: 150px;
+label {
+  color: rgb(13, 92, 119);
+  font-size: medium;
+  font-weight: bolder; 
 }
 
 select {
-  display: block;
-  margin-bottom: 20px;
+  margin-left: 10px;
+  background-color:rgb(216, 232, 247);
+  /* display: block; */
+  /* margin-bottom: 10px; */
+}
+h2 {
+  color: rgb(255, 255, 255);
+  background-color: rgb(13, 92, 119);
+  width: 600px;
+  text-align: center;
 }
